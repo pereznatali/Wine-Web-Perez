@@ -1,0 +1,79 @@
+.Menu{
+    width: 70%;
+    font-family: 'Lucida Sans Unicode';
+    font-size: 10px;
+    padding: 0px;
+    content: 0px;
+    border: 0px;
+    margin: 0px;
+    position: relative; top: 0px; left: 0px;
+
+}
+
+.Menu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    position: relative; left: 0%; 
+}
+
+.History:hover{
+    transform: translate(5px, 5px);
+}
+.Types:hover{
+    transform: translate(5px, 5px);
+}
+.Howtotaste:hover{
+    transform: translate(5px, 5px);
+}
+.Contact:hover{
+    transform: translate(5px, 5px);
+}
+
+.Titulo{
+    font-family:'Times New Roman'; 
+    font-size: 70px; 
+    letter-spacing: 5px; 
+    text-align: left;
+    width: 0%;
+    position: relative; top: 50px; left: 0px;
+    color: white;
+}
+
+.Descripción{
+    font-family:'Lucida Sans Unicode'; 
+    font-size: 18px; 
+    letter-spacing: 1px; 
+    line-height: 13px;
+    color: aliceblue;
+    position: relative; top: 60px; left: 20px;
+    text-align: left;
+}
+
+body{
+    background-image: url(portada.jpeg);
+    background-position: right;
+    background-position: 90%; 
+    background-color: black; 
+    background-repeat: no-repeat;
+    margin: 50px;
+    border-top: 20px;
+    padding: 10px;
+}
+
+h6{
+    font-size: 10px; 
+    font-family: 'Lucida Sans Unicode';
+    color: gray;
+    text-align: left;
+    position: relative; top: 50px; left: 40px;
+}
+    
+div{
+    border-top-width: 10px;
+    border-right-width: 5px;
+    border-bottom-width: 10px;
+    border-left-width: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+}

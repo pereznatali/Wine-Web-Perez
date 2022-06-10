@@ -13,7 +13,7 @@
 .Menu{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    position: relative; left: 0%; 
+    position: relative; left: 20px; 
 }
 
 .History:hover{
@@ -35,8 +35,8 @@
     letter-spacing: 5px; 
     text-align: left;
     width: 0%;
-    position: relative; top: 50px; left: 0px;
-    color: white;
+    position: relative; top: 50px; left: 35px;
+    color: rgb(0, 0, 0);
 }
 
 .Descripción{
@@ -44,16 +44,9 @@
     font-size: 18px; 
     letter-spacing: 1px; 
     line-height: 13px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     position: relative; top: 60px; left: 20px;
     text-align: left;
-}
-
-body{
-    background-color: black; 
-    margin: 50px;
-    border-top: 20px;
-    padding: 10px;
 }
 
 h6{

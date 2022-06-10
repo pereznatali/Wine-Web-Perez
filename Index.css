@@ -1,7 +1,7 @@
 .Menu{
     width: 70%;
-    font-family: 'Lucida Sans Unicode';
-    font-size: 10px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 5px;
     padding: 0px;
     content: 0px;
     border: 0px;
@@ -30,7 +30,7 @@
 }
 
 .Titulo{
-    font-family:'Times New Roman'; 
+    font-family: 'Libre Baskerville', serif; 
     font-size: 70px; 
     letter-spacing: 5px; 
     text-align: left;
@@ -39,22 +39,21 @@
     color: rgb(0, 0, 0);
 }
 
+.Ig{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px;
+    position: relative; top: 100px; left: 40px;
+    color: black;
+}
+
 .Descripción{
-    font-family:'Lucida Sans Unicode'; 
-    font-size: 18px; 
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 20px; 
     letter-spacing: 1px; 
     line-height: 13px;
     color: rgb(0, 0, 0);
     position: relative; top: 60px; left: 20px;
     text-align: left;
-}
-
-h6{
-    font-size: 10px; 
-    font-family: 'Lucida Sans Unicode';
-    color: gray;
-    text-align: left;
-    position: relative; top: 50px; left: 40px;
 }
     
 div{

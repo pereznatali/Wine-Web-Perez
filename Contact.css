@@ -1,0 +1,44 @@
+.Titulo7{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 20px; 
+    letter-spacing: 1px; 
+    text-transform: uppercase;
+    line-height: 13px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    position: relative; top: 50px;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Forms{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 15px; 
+    letter-spacing: 1px; 
+    line-height: 13px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    position: relative; top: 50px;
+    border: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Boton:hover{
+    transform: translate(3px, 3px);
+}
+.Boton{
+    font-size: 2px;
+    font-style: lighter;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    line-height: 13px;
+}
+
+.Ig{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px;
+    position: relative; top: 100px; left: 40px;
+    color: black;
+}

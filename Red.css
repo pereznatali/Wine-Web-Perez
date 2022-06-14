@@ -1,0 +1,29 @@
+.Titulo4{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 30px; 
+    letter-spacing: 1px; 
+    line-height: 13px;
+    color: rgb(0, 0, 0);
+    text-align:center;
+}
+
+.Redwine{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 20px; 
+    letter-spacing: 1px; 
+    line-height: 13px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative; top: 50px;
+}
+
+.Boton:hover{
+    transform: translate(5px, 5px);
+}
+.Boton{
+    font-size: 3px;
+    font-style: lighter;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    line-height: 13px;
+}
